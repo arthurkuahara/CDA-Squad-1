@@ -1,0 +1,1 @@
+Atividade econômica – setor real – Indústria – Indicadores de produção industrial - Utilização da capacidade instalada – indústria de transformação (Dados dessazonalizados) (Cod 28561)

@@ -1,0 +1,1 @@
+Atividade econômica – setor real – Indústria – Indicadores de produção industrial - Tráfego de veículos pesados nas estradas pedagiadas - ABCR (Dados dessazonalizados) (Cod 28553)
