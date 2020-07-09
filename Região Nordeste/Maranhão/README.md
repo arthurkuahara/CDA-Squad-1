@@ -1,0 +1,1 @@
+Economia Regional - Nordeste - Maranhão - Setor real - Cod 28023; 1463; 14011; 14038; 14065; 15870; 15902; 15934;

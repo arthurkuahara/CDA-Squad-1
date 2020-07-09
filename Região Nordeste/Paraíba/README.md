@@ -1,0 +1,1 @@
+Economia Regional - Nordeste - Paraíba - Setor real - Cod 28027; 7487; 1467; 14016; 14043; 14070; 15875; 15907; 15939
