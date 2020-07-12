@@ -1,0 +1,1 @@
+Economia Regional - Norte - Amapá - Setor real - Cod 24004; 1461; 14004; 14031; 14058; 15863; 15895; 15927;

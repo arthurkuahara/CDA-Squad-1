@@ -1,0 +1,1 @@
+Economia Regional - Norte -Acre - Setor real -  Cod 27968; 24003; 1457; 14002; 14029; 14056; 15861; 15893; 15925;
