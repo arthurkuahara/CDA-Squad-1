@@ -1,0 +1,1 @@
+Atividade econômica – Preços – Índices gerais de preços e seus componentes – (Cod 189; 190; 191; 192; 225; 7447; 7450; 7453; 7456; 7459; 7460; 7461; 7462)

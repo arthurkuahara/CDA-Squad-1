@@ -1,0 +1,1 @@
+Atividade econômica – Preços – Índices de preços ao consumidor – (Cod 188; 194; 433), (Cod 1635 até 4449), (Cod 4451 até 4454), (Cod 4458; 4460; 4461) e (Cod 7465 até 7475), Cod (10841 até 10843) e Cod (27863 e 27864)
