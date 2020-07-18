@@ -1,4 +1,4 @@
-Data;4192 - PIB acumulado dos ultimos 12 meses - Em US$ milhoes - US$ (milhoes);4380 - PIB mensal - Valores correntes (R$ milhoes) - R$ (milhoes);4381 - PIB acumulado no ano - Valores correntes (R$ milhoes) - R$ (milhoes);4382 - PIB acumulado dos ultimos 12 meses - Valores correntes (R$ milhoes) - R$ (milhoes);4385 - PIB mensal - Em US$ milhoes - US$ (milhoes);4386 - PIB acumulado no ano - Em US$ milhoes - US$ (milhoes);24364 - Indice de Atividade Economica do Banco Central (IBC-Br) - com ajuste sazonal - Indice
+Data;4192;4380;4381;4382;4385;4386;24364
 01/1990;422.967 ;0,2 ;0,2 ;0,7 ;37.961 ;37.961 ;-
 02/1990;430.216 ;0,4 ;0,7 ;1,1 ;36.937 ;74.898 ;-
 03/1990;435.954 ;0,8 ;1,4 ;1,8 ;37.177 ;112.075 ;-

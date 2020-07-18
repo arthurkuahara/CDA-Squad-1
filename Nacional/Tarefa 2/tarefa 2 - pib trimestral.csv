@@ -1,4 +1,4 @@
-Data;22105 - PIB trimestral - Dados dessazonalizados - Agropecuaria (total) - Indice;22106 - PIB trimestral - Dados dessazonalizados - Industria (total) -Indice;22107 - PIB trimestral - Dados dessazonalizados - Servicos (total) - Indice;22108 - PIB trimestral - Dados dessazonalizados - Valor adicionado a preços basicos - Indice;22109 - PIB trimestral - Dados dessazonalizados - Produto Interno Bruto a preços de mercado - Indice;22110 - PIB trimestral - Dados dessazonalizados - Consumo das familias - Indice;22111 - PIB trimestral - Dados dessazonalizados - Consumo do Governo - Indice;22113 - PIB trimestral - Dados dessazonalizados - FBCF - Indice;22114 - PIB trimestral - Dados dessazonalizados - Exportacao - Indice;22115 - PIB trimestral - Dados dessazonalizados - Importacao SCN 2010 - Indice
+Data;22105;22106;22107;22108;22109;22110;22111;22113;22114;22115
 1' Trim.1996;94.4;101.23;101.73;100.95;100.84;98.63;99.14;96.84;98.63;91.36
 2' Trim.1996;96.55;97.05;102.31;100.51;100.36;100.88;100.74;98.72;95.96;99.86
 3' Trim.1996;102.63;106.07;103.73;104.37;104.4;103.93;104.24;102.41;95.55;107.13
