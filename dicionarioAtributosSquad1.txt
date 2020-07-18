@@ -1,0 +1,658 @@
+|
+|---Nacional
+|   |---Tarefa 1
+|       |---4192 - PIB acumulado dos ultimos 12 meses - Em US$ milhoes - US$ (milhoes)
+|           4380 - PIB mensal - Valores correntes (R$ milhoes) - R$ (milhoes)
+|           4381 - PIB acumulado no ano - Valores correntes (R$ milhoes) - R$ (milhoes)
+|           4382 - PIB acumulado dos ultimos 12 meses - Valores correntes (R$ milhoes) - R$ (milhoes)
+|           4385 - PIB mensal - Em US$ milhoes - US$ (milhoes)
+|           4386 - PIB acumulado no ano - Em US$ milhoes - US$ (milhoes)
+|           24364 - Indice de Atividade Economica do Banco Central (IBC-Br) - com ajuste sazonal - Indice
+|   |---Tarefa 2
+|       |---22105 - PIB trimestral - Dados dessazonalizados - Agropecuaria (total) - Indice
+|       22106 - PIB trimestral - Dados dessazonalizados - Industria (total) -Indice
+|       22107 - PIB trimestral - Dados dessazonalizados - Servicos (total) - Indice
+|       22108 - PIB trimestral - Dados dessazonalizados - Valor adicionado a preços basicos - Indice
+|       22109 - PIB trimestral - Dados dessazonalizados - Produto Interno Bruto a preços de mercado - Indice
+|       22110 - PIB trimestral - Dados dessazonalizados - Consumo das familias - Indice
+|       22111 - PIB trimestral - Dados dessazonalizados - Consumo do Governo - Indice
+|       22113 - PIB trimestral - Dados dessazonalizados - FBCF - Indice
+|           22114 - PIB trimestral - Dados dessazonalizados - Exportacao - Indice
+|       22115 - PIB trimestral - Dados dessazonalizados - Importacao SCN 2010 - Indice
+|   |---Tarefa 3
+|       |---28553 - Trafego de veiculos pesados nas estradas pedagiadas - ABCR - Dados dessazonalizados - Indice
+|   |---Tarefa 4
+|       |---28561 - Utilizacao da capacidade instalada - industria de transformacao (FGV) - Dados dessazonalizados - %
+|   |---Tarefa 5
+|       |---28555 - Vendas industriais reais (2016=100) - CNI - Dados dessazonalizados – indice
+|           
+|   |---Tarefa 6
+|       |---28556 - Numero de horas trabalhadas  industria de transformacao (2016=100) - Dados dessazonalizados - Indice
+|           
+|   |---Tarefa 7
+|       |---28559 - Salario real na industria de transformacao (2016=100) - Dados dessazonalizados – Indice
+|           
+|   |---Tarefa 8
+|       |---28560 - Massa salarial real  industria de transformacao (2016=100) - Dados dessazonalizados - Indice
+|   |---Tarefa 9
+|       |---1373 - Produção total de autoveículos - unidades
+|           1374 - Produção de automóveis e comerciais leves - unidades
+|           1375 - Produção de caminhões - unidades
+|           1376 - Produção de ônibus - unidades
+|           1377 - Produção de motociclos - unidades
+|           1378 - Vendas de autoveículos (total) - unidades
+|           1379 - Vendas de autoveículos no mercado interno - unidades
+|           1380 - Vendas de autoveículos no mercado externo - unidades
+|           1381 - Vendas de motociclos - unidades
+|           7384 - Vendas de veículos pelas concessionárias - Automóveis - Unidades
+|           7385 - Vendas de veículos pelas concessionárias - Comerciais leves - Unidades
+|           7386 - Vendas de veículos pelas concessionárias - Caminhões - Unidades
+|           7387 - Vendas de veículos pelas concessionárias - Ônibus - Unidades
+|           28527 - Produção total de autoveículos - Dados dessazonalizados - %
+|           28528 - Vendas de autoveículos (total) - Dados dessazonalizados - unidades
+|           28529 - Vendas de autoveículos no mercado interno - Dados dessazonalizados - unidades
+|           28530 - Vendas de autoveículos no mercado externo - Dados dessazonalizados - unidades
+|   |---Tarefa 10
+|        |---28473 - Índice volume de vendas no varejo - Total - Brasi - Dados dessazonalizados - Índice
+|           28474 - Índice volume de vendas no varejo - Combustíveis e lubrificantes - Brasil - Dados dessazonalizados - Índice
+|           28475 - Índice volume de vendas no varejo - Hiper/supermercado, Prod. alimentícios, bebidas, fumo - Brasil - Dados dessazonalizados - Índice
+|           28476 - Índice volume de vendas no varejo - Hipermercados e supermercados - Brasil - Dados dessazonalizados - Índice
+|           28477 - Índice volume de vendas no varejo - Tecido, vestuário e calçado - Brasil - Dados dessazonalizados - Índice
+|           28478 - Índice volume de vendas no varejo - Móveis e eletrodomésticos - Brasil - Dados dessazonalizados - Índice
+|           28479 - Índice volume de vendas no varejo - Automóveis, motocicletas, partes e peças - Brasil - Dados dessazonalizados - Índice
+|           28480 - Artigos farmacêuticos, médicos, ortopédicos, perfumaria e cosméticos - Dados dessazonalizados - Índice
+|           28481 - Livros, jornais, revistas e papelaria - Dados dessazonalizados - Índice
+|           28482 - Equipamentos e materiais para escritório e comunicação - Dados dessazonalizados - Índice
+|           28483 - Outros artigos de uso pessoal e doméstico - Dados dessazonalizados - Índice
+|           28484 - Material de construção - Dados dessazonalizados - Índice
+|           28485 - Comércio ampliado - Dados dessazonalizados - Índice
+|   |---Tarefa 11
+|       |---4393 - Índice de Confiança do Consumidor - Índice
+|           4394 - Índice de Condições Econômicas Atuais - Índice
+|           4395 - Índice de Expectativas Futuras - Índice
+|           17660 - Sondagem de Serviços - Índice de Confiança de Serviços - Pontos
+|           17661 - Sondagem de Serviços - Índice de Situação Atual (ISA-S) - Pontos
+|           17662 - Sondagem de Serviços - Índice de Expectativas (IE-S) - Pontos
+|           20339 - Sondagem de Serviços - Índice de Confiança de Serviços - Dessazonalizado - Pontos
+|           20340 - Sondagem de Serviços - Índice de Situação Atual (ISA-S) - Dessazonalizado - Pontos
+|           20341 - Sondagem de Serviços - Índice de Expectativas (IE-S) - Dessazonalizado - Pontos
+|           7341 - Índice de Confiança do Empresário Industrial (ICEI) - Geral - Índice
+|           7342 - Índice de Confiança do Empresário Industrial (ICEI) - Condições - Índice
+|           7343 - Índice de Confiança do Empresário Industrial (ICEI) - Expectativas - Índice
+|   |---Tarefa 12
+|       |---4393 - Índice de Confiança do Consumidor - Índice
+|           4394 - Índice de Condições Econômicas Atuais - Índice
+|           4395 - Índice de Expectativas Futuras - Índice
+|           7341 - Índice de Confiança do Empresário Industrial (ICEI) - Geral - Índice
+|           7342 - Índice de Confiança do Empresário Industrial (ICEI) - Condições - Índice
+|           7343 - Índice de Confiança do Empresário Industrial (ICEI) - Expectativas - Índice
+|    |---Tarefa 13
+|       |---1453 - Indicador de Movimento do Comercio a Prazo - IMC - unidades
+|           1454 - Indicador de Movimento de Cheques - unidades
+|           28549 - Vendas do setor supermercadista - Dados dessazonalizados - indice
+|           28550 - Indicador de Movimento do Comercio a Prazo - IMC - Dados dessazonalizados - unidades
+|           28551 - Indicador de Movimento de Cheques - Dados dessazonalizados - unidades
+|   |---Tarefa 14
+|       |---24370 - Pessoas em idade de trabalhar - PNADC - Unidades (mil)
+|           28543 - Populacao ocupada com rendimento - Unidades (mil)
+|   |---Tarefa 15
+|       |---22078 - Massa salarial ampliada - PNADC (media movel trimestral) - R$ (milhoes)
+|           22079 - Massa Salarial Ampliada Disponivel - PNADC (media movel trimestral) - R$ (milhoes)
+|           22080 - Massa Salarial Ampliada Disponivel - PNADC (acumulada em 12 meses) - R$ (milhoes)
+|           24381 - Rendimento medio real efetivo de todos os trabalhos - PNADC - R$
+|           24382 - Rendimento medio real habitual das pessoas ocupadas - PNADC - R$
+|           24383 - Rendimento medio real habitual das pessoas ocupadas - Com carteira - PNADC - R$
+|           24384 - Rendimento medio real habitual das pessoas ocupadas - Sem carteira - PNADC - R$
+|           24385 - Rendimento medio real habitual das pessoas ocupadas - Setor privado - PNADC - R$
+|           24386 - Rendimento medio real habitual das pessoas ocupadas - Setor publico - PNADC - R$
+|           24387 - Rendimento medio real habitual das pessoas ocupadas - Conta propria - PNADC - R$
+|           24388 - Rendimento medio real habitual das pessoas ocupadas - Empregadores - PNADC - R$
+|           24399 - Rendimento medio real habitual das pessoas ocupadas - Setor privado e publico - PNADC - R$
+|           28544 - Massa de rendimento real efetivo de todos os trabalhos - R$ (milhoes)
+|           28545 - Massa de rendimento real habitual de todos os trabalhos - R$ (milhoes)
+|   |---Tarefa 16
+|       |---24369 - Taxa de desocupacao - PNADC - %
+|           28562 - Taxa de desocupacao - PNADC - Norte - %
+|           28563 - Taxa de desocupacao - PNADC - Centro-Oeste - %
+|           28564 - Taxa de desocupacao - PNADC - Nordeste - %
+|           28565 - Taxa de desocupacao - PNADC - Sudeste - %
+|           28566 - Taxa de desocupacao - PNADC - Sul - %
+|   |---Tarefa 17
+|       |---7460 - �ndice de Pre�os por Atacado-Oferta Global (IPA-OG) - Produtos agr�colas - Var. % mensal
+|           7461 - �ndice Nacional de Custo da Constru��o (INCC-DI) - M�o-de-obra - Var. % mensal
+|           7462 - �ndice Nacional de Custo da Constru��o (INCC-DI) - Materiais e servi�os - Var. % mensal
+|   |---Tarefa 18
+|       |---7471 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Despesas pessoais - Var. % mensal
+|           7472 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Vestu�rio - Var. % mensal
+|           7473 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Sa�de - Var. % mensal
+|           7474 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Educa��o - Var. % mensal
+|           7475 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Comercializ�veis - Var. % mensal
+|           10841 - �ndice de Pre�os ao Consumidor-Amplo (IPCA) - Bens n�o-dur�veis - Var. % mensal
+|           10842 - �ndice de Pre�os ao Consumidor-Amplo (IPCA) - Bens semi-dur�veis - Var. % mensal
+|           10843 - �ndice de Pre�os ao Consumidor-Amplo (IPCA) - Dur�veis - Var. % mensal
+|           27863 - �ndice Nacional de Pre�os ao Consumidor - Amplo (IPCA) - Industriais - Var. % mensal
+|           27864 - Indice Nacional de Pre�os ao Consumidor - Amplo (IPCA) - Alimenta��o no domic�lio - Var. % mensal
+|   |---Tarefa 19
+|       |---7495 - SINAPI - Var. % mensal
+|   |---Tarefa 20
+|       |---7495 - SINAPI - Var. % mensal
+|           27574 - �ndice de Commodities - Brasil - �ndice
+|           27575 - �ndice de Commodities - Brasil - Agropecu�ria - �ndice
+|           27576 - �ndice de Commodities - Brasil - Metal - �ndice
+|           27577 - �ndice de Commodities - Brasil - Energia - �ndice
+|Região Centro-Oeste
+|   |---Consolidado Regional
+|       |---13951 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Centro-Oeste - %
+|           13952 - Índice Nacional de Preços ao Consumidor - variação mensal - Centro-Oeste - %
+|           21303 - Índice de volume de vendas no varejo - Total - Centro-Oeste - com ajuste sazonal - Índice
+|           21942 - Produção Industrial (2012=100) - Geral - Com ajuste sazonal - Região Centro-Oeste - Índice
+|           24077 - PMS - Índice de volume de serviços - Total - Região Centro-Oeste - Índice
+|           25382 - Índice de Atividade Econômica Regional - Região Centro-Oeste - com ajuste sazonal - Índice
+|           27983 - PMS - Índice de volume de serviços - Total - Região Centro-Oeste - com ajuste sazonal - Índice
+|           14085 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Centro-Oeste - Pessoas f�sicas - R$ (milh�es)
+|           14090 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Centro-Oeste - Pessoas jur�dicas - R$ (milh�es)
+|           14095 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Centro-Oeste - Total - R$ (milh�es)
+|           15890 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Centro-Oeste - Pessoas f�sicas - %
+|           15922 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Centro-Oeste - Pessoas jur�dicas - %
+|           15954 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Centro-Oeste - Total - %
+|   |---Distrito Federal
+|       |---1534 - Índice de volume de vendas no varejo - Móveis e eletrodomésticos - Distrito Federal - Índice
+|           1573 - Índice de volume de vendas no varejo - Hipermercados e supermercados - Distrito Federal - Índice
+|           7482 - Cesta básica - Brasília - u.m.c.
+|           13248 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Brasília - %
+|           13250 - Índice Nacional de Preços ao Consumidor - variação mensal - Brasília - %
+|           20112 - Índice de volume de vendas no varejo - Ampliado - Distrito Federal - Índice
+|           20115 - Índice de volume de vendas no varejo - Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - Distrito Federal - Índice
+|           20121 - Índice de volume de vendas no varejo - Equipamentos e materiais para escritório, informática e comunicação - Distrito Federal - Índice
+|           20127 - Índice de volume de vendas no varejo - Material de construção - Distrito Federal - Índice
+|           28042 - PMS - Índice de volume de serviços - Total - Distrito Federal - com ajuste sazonal - Índice
+|           1482 - Índice de volume de vendas no varejo - Total - Distrito Federal - Índice
+|           1495 - Índice de volume de vendas no varejo - Combustíveis e lubrificantes - Distrito Federal - Índice
+|           1508 - Índice de volume de vendas no varejo - Hiper/supermercado, prod.alimentícios, bebidas, fumo - Distrito Federal - Índice
+|           14008 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Distrito Federal - Pessoas f�sicas - R$ (milh�es)
+|           14035 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Distrito Federal - Pessoas jur�dicas - R$ (milh�es)
+|           14062 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Distrito Federal - Total - R$ (milh�es)
+|           15867 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Distrito Federal - Pessoas f�sicas - %
+|           15899 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Distrito Federal - Pessoas jur�dicas - %
+|           15931 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Distrito Federal - Total - %
+|   |---Goiás
+|       |---7486 - Cesta básica - Goiânia - u.m.c.
+|           13255 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Goiânia - %
+|           13258 - Índice Nacional de Preços ao Consumidor - variação mensal - Goiânia - %
+|           20114 - Índice de volume de vendas no varejo - Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - Goiás - Índice
+|           20120 - Índice de volume de vendas no varejo - Equipamentos e materiais para escritório, informática e comunicação - Goiás - Índice
+|           20123 - Índice de volume de vendas no varejo - Outros artigos de uso pessoal e doméstico - Goiás - Índice
+|           20126 - Índice de volume de vendas no varejo - Material de construção - Goiás - Índice
+|           21941 - Produção Industrial (2012=100) - Geral - Com ajuste sazonal - Goiás - Índice
+|           25384 - Índice de Atividade Econômica Regional - Goiás - com ajuste sazonal - Índice
+|           28041 - PMS - Índice de volume de serviços - Total - Goiás - com ajuste sazonal - Índice
+|           1481 - Índice de volume de vendas no varejo - Total - Goiás - Índice
+|           1494 - Índice de volume de vendas no varejo - Combustíveis e lubrificantes - Goiás - Índice
+|           1507 - Índice de volume de vendas no varejo - Hiper/supermercado, Prod. alimentícios, bebidas, fumo - Goiás - Índice
+|           1533 - Índice de volume de vendas no varejo - Móveis e eletrodomésticos - Goiás - Índice
+|           1559 - Índice de volume de vendas no varejo - Automóveis, motocicletas, partes e peças - Goiás - Índice
+|           1572 - Índice de volume de vendas no varejo - Hipermercados e supermercados - Goiás - Índice
+|           14010 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Goi�s - Pessoas f�sicas - R$ (milh�es)
+|           14037 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Goi�s - Pessoas jur�dicas - R$ (milh�es)
+|           14064 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Goi�s - Total - R$ (milh�es)
+|           15869 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Goi�s - Pessoas f�sicas - %
+|           15901 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Goi�s - Pessoas jur�dicas - %
+|           15933 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Goi�s - Total - %
+|   |---Mato Grosso
+|       |---1480 - Índice de volume de vendas no varejo - Total - Mato Grosso - Índice
+|           21938 - Produção Industrial (2012=100) - Geral - Mato Grosso - Índice
+|           28040 - PMS - Índice de volume de serviços - Total - Mato Grosso - com ajuste sazonal - Índice
+|           14012 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso - Pessoas f�sicas - R$ (milh�es)
+|           14039 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso - Pessoas jur�dicas - R$ (milh�es)
+|           14066 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso - Total - R$ (milh�es)
+|           15871 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso - Pessoas f�sicas - %
+|           15903 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso - Pessoas jur�dicas - %
+|           15935 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso - Total - %
+|   |---Mato Grosso do Sul
+|       |---1479 - �ndice de volume de vendas no varejo - Total - Mato Grosso do Sul - �ndice
+|           21899 - �ndice Nacional de Pre�os ao Consumidor Amplo - varia��o mensal - Campo Grande - %
+|           21900 - �ndice Nacional de Pre�os ao Consumidor - varia��o mensal - Campo Grande - %
+|           28039 - PMS - �ndice de volume de servi�os - Total - Mato Grosso do Sul - com ajuste sazonal - �ndice
+|           14013 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso do Sul - Pessoas f�sicas - R$ (milh�es)
+|           14040 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso do Sul - Pessoas jur�dicas - R$ (milh�es)
+|           14067 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso do Sul - Total - R$ (milh�es)
+|           15872 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso do Sul - Pessoas f�sicas - %
+|           15904 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso do Sul - Pessoas jur�dicas - %
+|           15936 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Mato Grosso do Sul - Total - %
+|Região Nordeste
+|   |---Alagoas
+|       |---
+|           1469 - �ndice volume de vendas no varejo (2003=100) - Total - Alagoas - �ndice
+|           14003 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Pessoas f�sicas - R$ (milh�es)
+|           14030 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Pessoas jur�dicas - R$ (milh�es)
+|           14057 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Total - R$ (milh�es)
+|           15862 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Pessoas f�sicas - %
+|           15894 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Pessoas jur�dicas - %
+|           15926 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Total - %
+|           28029 - PMS - �ndice de volume de servi�os - Total - Alagoas - com ajuste sazonal - �ndice
+|           1469 - �ndice volume de vendas no varejo (2003=100) - Total - Alagoas - �ndice
+|           14003 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Pessoas f�sicas - R$ (milh�es)
+|           14030 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Pessoas jur�dicas - R$ (milh�es)
+|           14057 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Total - R$ (milh�es)
+|           15862 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Pessoas f�sicas - %
+|           15894 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Pessoas jur�dicas - %
+|           15926 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Total - %
+|           28029 - PMS - �ndice de volume de servi�os - Total - Alagoas - com ajuste sazonal - �ndice
+|   |---Bahia
+|       |---1471 - �ndice de volume de vendas no varejo - Total - Bahia - �ndice
+|           1486 - �ndice de volume de vendas no varejo - Combust�veis e lubrificantes - Bahia - �ndice
+|           1499 - �ndice de volume de vendas no varejo - Hipermercados, supermercados, produtos aliment�cios, bebidas e fumo - Bahia - �ndice
+|           1525 - �ndice de volume de vendas no varejo - M�veis e eletrodom�sticos - Bahia - �ndice
+|           1551 - �ndice de volume de vendas no varejo - Autom�veis, motocicletas, partes e pe�as - Bahia - �ndice
+|           7492 - Cesta b�sica - Salvador - u.m.c.
+|           13003 - �ndice Nacional de Pre�os ao Consumidor Amplo - varia��o mensal - Salvador - %
+|           13004 - �ndice Nacional de Pre�os ao Consumidor - varia��o mensal - Salvador - %
+|           14006 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Bahia - Pessoas f�sicas - R$ (milh�es)
+|           14033 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Bahia - Pessoas jur�dicas - R$ (milh�es)
+|   |---Ceará
+|       |---1465 - Índice de volume de vendas no varejo - Total - Ceará - Índice
+|           1484 - Índice de volume de vendas no varejo - Combustíveis e lubrificantes - Ceará - Índice
+|           1497 - Índice de volume de vendas no varejo - Hiper/supermercado, Prod. alimentícios, bebidas, fumo - Ceará - Índice
+|           1523 - Índice de volume de vendas no varejo - Móveis e eletrodomésticos - Ceará - Índice
+|           1549 - Índice de volume de vendas no varejo - Automóveis, motocicletas, partes e peças - Ceará - Índice
+|           1562 - Índice de volume de vendas no varejo - Hipermercados e supermercados - Ceará - Índice
+|           7485 - Cesta básica - Fortaleza - u.m.c.
+|           13005 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Fortaleza - %
+|           13006 - Índice Nacional de Preços ao Consumidor - variação mensal - Fortaleza - %
+|           14007 - Saldo das operações de crédito do Sistema Financeiro Nacional - Ceará - Pessoas físicas - R$ (milhões)
+|           14034 - Saldo das operações de crédito do Sistema Financeiro Nacional - Ceará - Pessoas jurídicas - R$ (milhões)
+|           14061 - Saldo das operações de crédito do Sistema Financeiro Nacional - Ceará - Total - R$ (milhões)
+|           15866 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Ceará - Pessoas físicas - %
+|           15898 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Ceará - Pessoas jurídicas - %
+|           15930 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Ceará - Total - %
+|           21960 - Produção Industrial (2012=100)  Geral  Ceará - com ajuste sazonal - Índice
+|           25391 - Índice de Atividade Econômica Regional - Ceará - com ajuste sazonal - Índice
+|           28025 - PMS - Índice de volume de serviços - Total - Ceará - com ajuste sazonal - Índice
+|   |---Consolidado Geral
+|       |---13921 - �ndice Nacional de Pre�os ao Consumidor Amplo - varia��o mensal - Nordeste - %
+|           13922 - �ndice Nacional de Pre�os ao Consumidor - varia��o mensal - Nordeste - %
+|           21180 - �ndice de volume de vendas no varejo - Nordeste - com ajuste sazonal - �ndice
+|           21962 - Produ��o Industrial (2012=100) � Geral � Nordeste - com ajuste sazonal - �ndice
+|           25389 - �ndice de Atividade Econ�mica Regional - Nordeste - com ajuste sazonal - �ndice
+|           28045 - PMS - �ndice de volume de servi�os - Total - Regi�o Nordeste - com ajuste sazonal - �ndice
+|           14084 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Nordeste - Pessoas f�sicas - R$ (milh�es)
+|           14089 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Nordeste - Pessoas jur�dicas - R$ (milh�es)
+|           14094 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Nordeste - Total - R$ (milh�es)
+|           15889 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Nordeste - Pessoas f�sicas - %
+|           15921 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Nordeste - Pessoas jur�dicas - %
+|           15953 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Nordeste - Total - %
+|   |---Maranhão
+|       |---1463 - �ndice de volume de vendas no varejo - Total - Maranh�o - �ndice
+|           14011 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Maranh�o - Pessoas f�sicas - R$ (milh�es)
+|           14038 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Maranh�o - Pessoas jur�dicas - R$ (milh�es)
+|           14065 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Maranh�o - Total - R$ (milh�es)
+|           15870 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Maranh�o - Pessoas f�sicas - %
+|           15902 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Maranh�o - Pessoas jur�dicas - %
+|           15934 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Maranh�o - Total - %
+|           28023 - PMS - �ndice de volume de servi�os - Total - Maranh�o - com ajuste sazonal - �ndice
+|   |---Paraíba
+|       |---1467 - �ndice volume de vendas no varejo (2003=100) - Total - Para�ba - �ndice
+|           7487 - Cesta b�sica - Jo�o Pessoa - u.m.c.
+|           14016 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Para�ba - Pessoas f�sicas - R$ (milh�es)
+|           14043 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Para�ba - Pessoas jur�dicas - R$ (milh�es)
+|           14070 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Para�ba - Total - R$ (milh�es)
+|           15875 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Para�ba - Pessoas f�sicas - %
+|           15907 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Para�ba - Pessoas jur�dicas - %
+|           15939 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Para�ba - Total - %
+|           28027 - PMS - �ndice de volume de servi�os - Total - Para�ba - com ajuste sazonal - �ndice
+|   |---Pernambuco
+|       |---1468 - Índice volume de vendas no varejo (2003=100) - Total - Pernambuco - Índice
+|           1485 - Índice volume de vendas no varejo (2003=100) - Combustíveis e lubrificantes - Pernambuco - Índice
+|           1498 - Índice volume de vendas no varejo (2003=100) - Hiper/supermercado, Prod. alimentícios, bebidas, fumo - Pernambuco - Índice
+|           1524 - Índice volume de vendas no varejo (2003=100) - Móveis e eletrodomésticos - Pernambuco - Índice
+|           1550 - Índice volume de vendas no varejo (2003=100) - Automóveis, motocicletas, partes e peças - Pernambuco - Índice
+|           1563 - Índice volume de vendas no varejo (2003=100) - Hipermercados e supermercados - Pernambuco - Índice
+|           7490 - Cesta básica - Recife - u.m.c.
+|           12675 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Recife - Var. % mensal
+|           12676 - Índice Nacional de Preços ao Consumidor - variação mensal - Recife - %
+|           14018 - Saldo das operações de crédito do Sistema Financeiro Nacional - Pernambuco - Pessoas físicas - R$ (milhões)
+|           14045 - Saldo das operações de crédito do Sistema Financeiro Nacional - Pernambuco - Pessoas jurídicas - R$ (milhões)
+|           14072 - Saldo das operações de crédito do Sistema Financeiro Nacional - Pernambuco - Total - R$ (milhões)
+|           15877 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Pernambuco - Pessoas físicas - %
+|           15909 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Pernambuco - Pessoas jurídicas - %
+|           15941 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Pernambuco - Total - %
+|           25418 - Índice de Atividade Econômica Regional - Pernambuco - com ajuste sazonal - Índice
+|           28028 - PMS - Índice de volume de serviços - Total - Pernambuco - com ajuste sazonal - Índice
+|   |---Piauí
+|       |---1464 - �ndice de volume de vendas no varejo - Total - Piau� - �ndice
+|           14019 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Piau� - Pessoas f�sicas - R$ (milh�es)
+|           14046 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Piau� - Pessoas jur�dicas - R$ (milh�es)
+|           14073 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Piau� - Total - R$ (milh�es)
+|           15878 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Piau� - Pessoas f�sicas - %
+|           15910 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Piau� - Pessoas jur�dicas - %
+|           15942 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Piau� - Total - %
+|           27985 - PMS - �ndice de volume de servi�os - Total - Piau� - �ndice
+|           28024 - PMS - �ndice de volume de servi�os - Total - Piau� - com ajuste sazonal - �ndice
+|Região Norte
+|   |---Acre
+|       |---1457 - �ndice de volume de vendas no varejo - Total - Acre - �ndice
+|           14002 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Acre - Pessoas f�sicas - R$ (milh�es)
+|           14029 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Acre - Pessoas jur�dicas - R$ (milh�es)
+|           14056 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Acre - Total - R$ (milh�es)
+|           15861 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Acre - Pessoas f�sicas - %
+|           15893 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Acre - Pessoas jur�dicas - %
+|           15925 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Acre - Total - %
+|           24003 - PMS - �ndice de volume de servi�os - Total - Acre - �ndice
+|           27968 - �ndice Nacional de Pre�os ao Consumidor Amplo - varia��o mensal - Rio Branco - %
+|   |---Amapá
+|       |---1461 - �ndice de volume de vendas no varejo - Total - Amap� - �ndice
+|           14004 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Amap� - Pessoas f�sicas - R$ (milh�es)
+|           14031 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Amap� - Pessoas jur�dicas - R$ (milh�es)
+|           14058 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Amap� - Total - R$ (milh�es)
+|           15863 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Amap� - Pessoas f�sicas - %
+|           15895 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Amap� - Pessoas jur�dicas - %
+|           15927 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Amap� - Total - %
+|           24004 - PMS - �ndice de volume de servi�os - Total - Amap� - �ndice
+|   |---Amazonas
+|       |---1458 - Índice de volume de vendas no varejo - Total - Amazonas - Índice
+|           14005 - Saldo das operações de crédito do Sistema Financeiro Nacional - Amazonas - Pessoas físicas - R$ (milhões)
+|           14032 - Saldo das operações de crédito do Sistema Financeiro Nacional - Amazonas - Pessoas jurídicas - R$ (milhões)
+|           14059 - Saldo das operações de crédito do Sistema Financeiro Nacional - Amazonas - Total - R$ (milhões)
+|           15864 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Amazonas - Pessoas físicas - %
+|           15896 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Amazonas - Pessoas jurídicas - %
+|           15928 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Amazonas - Total - %
+|           24005 - PMS - Índice de volume de serviços - Total - Amazonas - Índice
+|           25412 - Índice de Atividade Econômica Regional - Amazonas - com ajuste sazonal - Índice
+|           28003 - Utilização da capacidade instalada - Amazonas (desde 2006) A - %
+|   |---Consolidado Regional
+|       |---14083 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Norte - Pessoas f�sicas - R$ (milh�es)
+|           14088 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Norte - Pessoas jur�dicas - R$ (milh�es)
+|           14093 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Norte - Total - R$ (milh�es)
+|           15888 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Norte - Pessoas f�sicas - %
+|           15920 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Norte - Pessoas jur�dicas - %
+|           15952 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Norte - Total - %
+|           21186 - �ndice de volume de vendas no varejo - Norte - �ndice
+|           21199 - �ndice de volume de vendas no varejo - Norte - com ajuste sazonal - �ndice
+|           21931 - Produ��o industrial (2012=100) - Com ajuste sazonal - Regi�o Norte - �ndice
+|           27967 - �ndice Nacional de Pre�os ao Consumidor Amplo - varia��o mensal - regi�o Norte - %
+|   |---Pará
+|       |---1460 - Índice de volume de vendas no varejo - Total - Pará - Índice
+|           7480 - Cesta básica - Belém - u.m.c.
+|           13076 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - região metropolitana de Belém - %
+|           13077 - Índice Nacional de Preços ao Consumidor - variação mensal - região metropolitana de Belém - %
+|           14015 - Saldo das operações de crédito do Sistema Financeiro Nacional - Pará - Pessoas físicas - R$ (milhões)
+|           14042 - Saldo das operações de crédito do Sistema Financeiro Nacional - Pará - Pessoas jurídicas - R$ (milhões)
+|           14069 - Saldo das operações de crédito do Sistema Financeiro Nacional - Pará - Total - R$ (milhões)
+|           15874 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Pará - Pessoas físicas - %
+|           15906 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Pará - Pessoas jurídicas - %
+|           15938 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Pará - Total - %
+|           24006 - PMS - Índice de volume de serviços - Total - Pará - Índice
+|           25410 - Índice de Atividade Econômica Regional - Pará - com ajuste sazonal - Índice
+|   |---Rio Grande do Norte
+|       |---1466 - �ndice volume de vendas no varejo (2003=100) - Total - Rio Grande do Norte - �ndice
+|           7488 - Cesta b�sica - Natal - u.m.c.
+|           14021 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Norte - Pessoas f�sicas - R$ (milh�es)
+|           14048 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Norte - Pessoas jur�dicas - R$ (milh�es)
+|           14075 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Norte - Total - R$ (milh�es)
+|           15880 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Norte - Pessoas f�sicas - %
+|           15912 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Norte - Pessoas jur�dicas - %
+|           15944 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Norte - Total - %
+|           28026 - PMS - �ndice de volume de servi�os - Total - Rio Grande do Norte - com ajuste sazonal - �ndice
+|   |---Rondônia
+|       |---1456 - Índice de volume de vendas no varejo - Total - Rondônia - Índice
+|           14023 - Saldo das operações de crédito do Sistema Financeiro Nacional - Rondônia - Pessoas físicas - R$ (milhões)
+|           14050 - Saldo das operações de crédito do Sistema Financeiro Nacional - Rondônia - Pessoas jurídicas - R$ (milhões)
+|           14077 - Saldo das operações de crédito do Sistema Financeiro Nacional - Rondônia - Total - R$ (milhões)
+|           15882 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Rondônia - Pessoas físicas - %
+|           15914 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Rondônia - Pessoas jurídicas - %
+|           15946 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Rondônia - Total - %
+|           24007 - PMS - Índice de volume de serviços - Total - Rondônia - Índice
+|   |---Roraima
+|       |---1459 - Índice de volume de vendas no varejo - Total - Roraima - Índice
+|           14024 - Saldo das operações de crédito do Sistema Financeiro Nacional - Roraima - Pessoas físicas - R$ (milhões)
+|           14051 - Saldo das operações de crédito do Sistema Financeiro Nacional - Roraima - Pessoas jurídicas - R$ (milhões)
+|           14078 - Saldo das operações de crédito do Sistema Financeiro Nacional - Roraima - Total - R$ (milhões)
+|           15883 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Roraima - Pessoas físicas - %
+|           15915 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Roraima - Pessoas jurídicas - %
+|           15947 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Roraima - Total - %
+|           24008 - PMS - Índice de volume de serviços - Total - Roraima - Índice
+|   |---Sergipe
+|       |---1470 - �ndice volume de vendas no varejo (2003=100) - Total - Sergipe - �ndice
+|           7479 - Cesta b�sica - Aracaju - u.m.c.
+|           14027 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Sergipe - Pessoas f�sicas - R$ (milh�es)
+|           14054 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Sergipe - Pessoas jur�dicas - R$ (milh�es)
+|           14081 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Sergipe - Total - R$ (milh�es)
+|           15886 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Sergipe - Pessoas f�sicas - %
+|           15918 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Sergipe - Pessoas jur�dicas - %
+|           15950 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Sergipe - Total - %
+|           28030 - PMS - �ndice de volume de servi�os - Total - Sergipe - com ajuste sazonal - �ndice
+|   |---Tocantins
+|       |---
+|           1462 - Índice de volume de vendas no varejo - Total - Tocantins - Índice
+|           14028 - Saldo das operações de crédito do Sistema Financeiro Nacional - Tocantins - Pessoas físicas - R$ (milhões)
+|           14055 - Saldo das operações de crédito do Sistema Financeiro Nacional - Tocantins - Pessoas jurídicas - R$ (milhões)
+|           14082 - Saldo das operações de crédito do Sistema Financeiro Nacional - Tocantins - Total - R$ (milhões)
+|           15887 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Tocantins - Pessoas físicas - %
+|           15919 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Tocantins - Pessoas jurídicas - %
+|           15951 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Tocantins - Total - %
+|           24009 - PMS - Índice de volume de serviços - Total - Tocantins - Índice
+|Região Sudeste
+|   |---Consolidado Regional
+|       |---13586 - Índice Nacional de Preços ao Consumidor - variação mensal - Sudeste - %
+|           13604 - Índice de volume de vendas no varejo - Hipermercados, supermercados, produtos alimentícios, bebidas e fumo - Sudeste - Índice
+|           13606 - Índice de volume de vendas no varejo - Móveis e eletrodomésticos - Sudeste - Índice
+|           13607 - Índice de volume de vendas no varejo - Automóveis, motocicletas, partes e peças - Sudeste - Índice
+|           13608 - Índice de volume de vendas no varejo - Hipermercados e supermercados - Sudeste - Índice
+|           20140 - Índice de volume de vendas no varejo - Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - Sudeste - Índice
+|           20141 - Índice de volume de vendas no varejo - Livros, jornais, revistas e papelaria - Sudeste - Índice
+|           20142 - Índice de volume de vendas no varejo - Equipamentos e materiais para escritório, informática e comunicação - Sudeste - Índice
+|           20143 - Índice de volume de vendas no varejo - Outros artigos de uso pessoal e doméstico - Sudeste - Índice
+|           20144 - Índice de volume de vendas no varejo - Material de construção - Sudeste - Índice
+|           13585 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Sudeste - %
+|           21182 - Índice de volume de vendas no varejo - Total - Sudeste - com ajuste sazonal - Índice
+|           21943 - Produção Industrial (2012=100)  Geral  Região sudeste  com ajuste sazonal - Índice
+|           25395 - Índice de Atividade Econômica Regional - Região Sudeste - com ajuste sazonal - Índice
+|           28043 - PMS - Índice de volume de serviços - Total - Região Sudeste - com ajuste sazonal - Índice
+|           28142 - PMS - Índice de volume de serviços - Serviços prestados às famílias - Região Sudeste - com ajuste sazonal - Índice
+|           28143 - PMS - Índice de volume de serviços - Serviços de informação e comunicação - Região Sudeste - com ajuste sazonal - Índice
+|           28144 - PMS - Índice de volume de serviços - Serviços profissionais, administrativos e complementares - Região Sudeste - com ajuste sazonal - Índice
+|           28145 - PMS - Índice de volume de serviços - Transportes, serviços auxiliares dos transportes e correio - Região Sudeste - com ajuste sazonal - Índice
+|           28146 - PMS - Índice de volume de serviços - Outros serviços - Região Sudeste - com ajuste sazonal - Índice
+|           14086 - Saldo das operações de crédito do Sistema Financeiro Nacional - Região Sudeste - Pessoas físicas - R$ (milhões)
+|           14091 - Saldo das operações de crédito do Sistema Financeiro Nacional - Região Sudeste - Pessoas jurídicas - R$ (milhões)
+|           14096 - Saldo das operações de crédito do Sistema Financeiro Nacional - Região Sudeste - Total - R$ (milhões)
+|           15891 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Região Sudeste - Pessoas físicas - %
+|           15923 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Região Sudeste - Pessoas jurídicas - %
+|           15955 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Região Sudeste - Total - %
+|   |---Espirito Santo
+|       |---1473 - Índice volume de vendas no varejo - Total - Espírito Santo - Índice
+|           1488 - Índice volume de vendas no varejo - Combustíveis e lubrificantes - Espírito Santo - Índice
+|           1501 - Índice volume de vendas no varejo - Hiper/supermercado, Prod. alimentícios, bebidas, fumo - Espírito Santo - Índice
+|           1514 - Índice volume de vendas no varejo - Tecido, vestuário e calçado - Espírito Santo - Índice
+|           1527 - Índice volume de vendas no varejo - Móveis e eletrodomésticos - Espírito Santo - Índice
+|           1553 - Índice volume de vendas no varejo - Automóveis, motocicletas, partes e peças - Espírito Santo - Índice
+|           1566 - Índice volume de vendas no varejo - Hipermercados e supermercados - Espírito Santo - Índice
+|           7494 - Cesta básica - Vitória - u.m.c.
+|           21928 - Produção Industrial (2012=100)  Geral  Espírito Santo - com ajuste sazonal - Índice
+|           25399 - Índice de Atividade Econômica Regional - Espírito Santo - com ajuste sazonal - Índice
+|           28033 - PMS - Índice de volume de serviços - Total - Espírito Santo - com ajuste sazonal - Índice
+|            14009 - Saldo das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Pessoas físicas - R$ (milhões)
+|           14036 - Saldo das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Pessoas jurídicas - R$ (milhões)
+|           14063 - Saldo das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Total - R$ (milhões)
+|           15868 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Pessoas físicas - %
+|           15900 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Pessoas jurídicas - %
+|           15932 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Total - %
+|   |---Minas Gerais
+|       |---1472 - indice de volume de vendas no varejo - Total - Minas Gerais - indice
+|           1487 - indice de volume de vendas no varejo - Combust�veis e lubrificantes - Minas Gerais - indice
+|           1500 - indice de volume de vendas no varejo - Hiper/supermercado, Prod. alimenticios, bebidas, fumo - Minas Gerais - ondice
+|           1513 - indice de volume de vendas no varejo - Tecidos, vestuario e calcados - Minas Gerais - indice
+|           1526 - indice de volume de vendas no varejo - Moveis e eletrodomesticos - Minas Gerais - indice
+|           1552 - indice de volume de vendas no varejo - Automoveis, motocicletas, partes e pecas - Minas Gerais - indice
+|           1565 - indice de volume de vendas no varejo - Hipermercados e supermercados - Minas Gerais - indice
+|           7481 - Cesta basica - Belo Horizonte - u.m.c.
+|           12852 - indice Nacional de Precos ao Consumidor Amplo - variacao mensal - Belo Horizonte - %
+|           12853 - indice Nacional de Precos ao Consumidor - variacao mensal - Belo Horizonte - %
+|           20113 - indice de volume de vendas no varejo - Artigos farmaceuticos, medicos, ortopedicos, de perfumaria e cosmeticos - Minas Gerais - indice
+|           20116 - indice de volume de vendas no varejo - Livros, jornais, revistas e papelaria - Minas Gerais - indice
+|           20119 - indice de volume de vendas no varejo - Equipamentos e materiais para escritorio, informatica e comunicacao - Minas Gerais - indice
+|           20122 - indice de volume de vendas no varejo - Outros artigos de uso pessoal e domestico - Minas Gerais - indice
+|           20125 - indice de volume de vendas no varejo - Material de construcao - Minas Gerais - indice
+|           21940 - Producao Industrial (2012=100) - Geral - Com ajuste sazonal - Minas Gerais - indice
+|           25380 - indice de Atividade Economica Regional - Minas Gerais - com ajuste sazonal - indice
+|           28032 - PMS - indice de volume de servicos - Total - Minas Gerais - com ajuste sazonal - indice
+|            14014 - Saldo das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Pessoas físicas - R$ (milhões)
+|           14041 - Saldo das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Pessoas jurídicas - R$ (milhões)
+|           14068 - Saldo das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Total - R$ (milhões)
+|           15873 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Pessoas físicas - %
+|           15905 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Pessoas jurídicas - %
+|           15937 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Total - %
+|   |---Rio de Janeiro
+|       |---1474 - indice volume de vendas no varejo - Total - Rio de Janeiro - indice
+|           1489 - indice volume de vendas no varejo - Combustiveis e lubrificantes - Rio de Janeiro - indice
+|           1502 - indice volume de vendas no varejo - Hiper/supermercado, Prod. alimenticios, bebidas, fumo - Rio de Janeiro - indice
+|           1515 - indice volume de vendas no varejo - Tecido, vestuario e calcado - Rio de Janeiro - indice
+|           1528 - indice volume de vendas no varejo - Moveis e eletrodomesticos - Rio de Janeiro - indice
+|           1554 - indice volume de vendas no varejo - Automoveis, motocicletas, partes e pecas - Rio de Janeiro - indice
+|           1567 - indice volume de vendas no varejo - Hipermercados e supermercados - Rio de Janeiro - indice
+|           7491 - Cesta basica - Rio de Janeiro - u.m.c.
+|           13381 - indice Nacional de Precos ao Consumidor Amplo - variacao mensal - Rio de Janeiro - %
+|           13382 - indice Nacional de Precos ao Consumidor - variacao mensal - Rio de Janeiro - %
+|           21929 - Producao Industrial (2012=100) - Geral - Rio de Janeiro - com ajuste sazonal - indice
+|           25397 - indice de Atividade Economica Regional - Rio de Janeiro - com ajuste sazonal - indice
+|           28034 - PMS - indice de volume de servicos - Total - Rio de Janeiro - com ajuste sazonal - indice
+|           14020 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio de Janeiro - Pessoas f�sicas - R$ (milh�es)
+|           14047 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio de Janeiro - Pessoas jur�dicas - R$ (milh�es)
+|           14074 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio de Janeiro - Total - R$ (milh�es)
+|           15879 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio de Janeiro - Pessoas f�sicas - %
+|           15911 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio de Janeiro - Pessoas jur�dicas - %
+|           15943 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio de Janeiro - Total - %
+|   |---São Paulo
+|       |---13025 - �ndice Nacional de Pre�os ao Consumidor - varia��o mensal - S�o Paulo - %
+|           20128 - �ndice de volume de vendas no varejo - Artigos farmac�uticos, m�dicos, ortop�dicos, de perfumaria e cosm�ticos - S�o Paulo - �ndice
+|           20129 - �ndice de volume de vendas no varejo - Livros, jornais, revistas e papelaria - S�o Paulo - �ndice
+|           20130 - �ndice de volume de vendas no varejo - Equipamentos e materiais para escrit�rio, inform�tica e comunica��o - S�o Paulo - �ndice
+|           20131 - �ndice de volume de vendas no varejo - Outros artigos de uso pessoal e dom�stico - S�o Paulo - �ndice
+|           20132 - �ndice de volume de vendas no varejo - Material de constru��o - S�o Paulo - �ndice
+|           20133 - �ndice de volume de vendas no varejo - Total do com�rcio ampliado - S�o Paulo - �ndice
+|           21925 - Produ��o Industrial (2012=100) � Geral � S�o Paulo - �ndice
+|           25394 - �ndice de Atividade Econ�mica Regional - S�o Paulo - com ajuste sazonal - �ndice
+|           28035 - PMS - �ndice de volume de servi�os - Total - S�o Paulo - com ajuste sazonal - �ndice
+|            14026 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Pessoas f�sicas - R$ (milh�es)
+|           14053 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Pessoas jur�dicas - R$ (milh�es)
+|           14080 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Total - R$ (milh�es)
+|           15885 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Pessoas f�sicas - %
+|           15917 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Pessoas jur�dicas - %
+|           15949 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Total - %
+|Região Sul
+|   |---Consolidado Regional
+|       |---13565 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Sul - %
+|           13567 - Índice Nacional de Preços ao Consumidor - variação mensal - Sul - %
+|           13573 - Índice de volume de vendas no varejo - Total - Sul - Índice
+|           20107 - Índice de volume de vendas no comércio varejista ampliado - Sul - Índice
+|           20326 - Índice de volume de vendas no varejo - combustíveis e lubrificantes - Sul - Índice
+|           20327 - Índice de volume de vendas no varejo - hipermercados, supermercados, produtos alimentícios, bebidas e fumo - Sul - Índice
+|           20328 - Índice de volume de vendas no varejo - hipermercados e supermercados - Sul - Índice
+|           20329 - Índice de volume de vendas no varejo - tecidos, vestuário e calçados - Sul - Índice
+|           20330 - Índice de volume de vendas no varejo - móveis e eletrodomésticos - Sul - Índice
+|           20331 - Índice de volume de vendas no varejo - artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - Sul - Índice
+|           20332 - Índice de volume de vendas no varejo - livros, jornais, revistas e papelaria - Sul - Índice
+|           20333 - Índice de volume de vendas no varejo - equipamentos e materiais para escritório, informática e comunicação - Sul - Índice
+|           20334 - Índice de volume de vendas no varejo - outros artigos de uso pessoal e doméstico - Sul - Índice
+|           20335 - Índice de volume de vendas no varejo - materiais de construção - Sul - Índice
+|           21280 - Índice de volume de vendas no varejo com ajuste sazonal - Sul - Índice
+|           21281 - Índice de volume de vendas no varejo ampliado com ajuste sazonal - Sul - Índice
+|           21421 - Índice de volume de vendas no varejo - Automóveis, motocicletas, partes e peças – Sul - Índice
+|           21935 - Produção Industrial (2012=100) – Geral – Sul – com ajuste sazonal - Índice
+|           25403 - Índice de Atividade Econômica Regional - Região Sul - com ajuste sazonal - Índice
+|           28044 - PMS - Índice de volume de serviços - Total - Região Sul - com ajuste sazonal - Índice
+|           28147 - PMS - Índice de volume de serviços - Serviços prestados às famílias - Região Sul - com ajuste sazonal - Índice
+|           28148 - PMS - Índice de volume de serviços - Serviços de informação e comunicação - Região Sul - com ajuste sazonal - Índice
+|           28149 - PMS - Índice de volume de serviços - Serviços profissionais, administrativos e complementares - Região Sul - com ajuste sazonal - Índice
+|           28150 - PMS - Índice de volume de serviços - Transportes, serviços auxiliares dos transportes e correio - Região Sul - com ajuste sazonal - Índice
+|           28151 - PMS - Índice de volume de serviços - Outros serviços - Região Sul - com ajuste sazonal - Índice
+|           14087 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Sul - Pessoas f�sicas - R$ (milh�es)
+|           14092 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Sul - Pessoas jur�dicas - R$ (milh�es)
+|           14097 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Sul - Total - R$ (milh�es)
+|           15892 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Sul - Pessoas f�sicas - %
+|           15924 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Sul - Pessoas jur�dicas - %
+|           15956 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Regi�o Sul - Total - %
+|   |---Paraná
+|       |---1476 - Índice de volume de vendas no varejo - Total - Paraná - Índice
+|           1491 - Índice de volume de vendas no varejo - Combustíveis e lubrificantes - Paraná - Índice
+|           1504 - Índice de volume de vendas no varejo - Hiper/supermercados, Prod. alimentícios, bebidas, fumo - Paraná - Índice
+|           1517 - Índice de volume de vendas no varejo - Tecidos, vestuário e calçados - Paraná - Índice
+|           1530 - Índice de volume de vendas no varejo - Móveis e eletrodomésticos - Paraná - Índice
+|           1556 - Índice de volume de vendas no varejo - Automóveis, motocicletas, partes e peças - Paraná - Índice
+|           7483 - Cesta básica - Curitiba - u.m.c.
+|           13066 - Índice Nacional de Preços ao Consumidor - variação mensal - Curitiba - %
+|           13070 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Curitiba - %
+|           20134 - Índice de volume de vendas no varejo - Ampliado - Paraná - Índice
+|           20135 - Índice de volume de vendas no varejo - Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - Paraná - Índice
+|           20136 - Índice de volume de vendas no varejo - Livros, jornais, revistas e papelaria - Paraná - Índice
+|           20137 - Índice de volume de vendas no varejo - Equipamentos e materiais para escritório, informática e comunicação - Paraná - Índice
+|           20138 - Índice de volume de vendas no varejo - Outros artigos de uso pessoal e doméstico - Paraná - Índice
+|           20139 - Índice de volume de vendas no varejo - Material de construção - Paraná - Índice
+|           21980 - Produção Industrial (2012=100) - Geral - Com ajuste sazonal - Paraná - Índice
+|           25413 - Índice de Atividade Econômica Regional - Paraná - com ajuste sazonal - Índice
+|           28036 - PMS - Índice de volume de serviços - Total - Paraná - com ajuste sazonal - Índice
+|           14017 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Paran� - Pessoas f�sicas - R$ (milh�es)
+|           14044 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Paran� - Pessoas jur�dicas - R$ (milh�es)
+|           14071 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Paran� - Total - R$ (milh�es)
+|           15876 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Paran� - Pessoas f�sicas - %
+|           15908 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Paran� - Pessoas jur�dicas - %
+|           15940 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Paran� - Total - %
+|   |---Rio Grande do Sul
+|       |---1478 - Índice de volume de vendas no varejo - Total - Rio Grande do Sul - Índice
+|           1493 - Índice de volume de vendas no varejo - Combustíveis e lubrificantes - Rio Grande do Sul - Índice
+|           1506 - Índice de volume de vendas no varejo - Hipermercados, supermercados, produtos alimentícios, bebidas e fumo - Rio Grande do Sul - Índice
+|           1519 - Índice de volume de vendas no varejo - Tecidos, vestuário e calçados - Rio Grande do Sul - Índice
+|           1532 - Índice de volume de vendas no varejo - Móveis e eletrodomésticos - Rio Grande do Sul - Índice
+|           1558 - Índice de volume de vendas no varejo - Automóveis, motocicletas, partes e peças - Rio Grande do Sul - Índice
+|           1571 - Índice de volume de vendas no varejo - Hipermercados e supermercados - Rio Grande do Sul - Índice
+|           7489 - Cesta básica - Porto Alegre - u.m.c.
+|           12547 - Faturamento real da indústria - Rio Grande do Sul - Índice
+|           12548 - Horas trabalhadas na produção - Rio Grande do Sul - Índice
+|           12661 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Porto Alegre - %
+|           12662 - Índice Nacional de Preços ao Consumidor - variação mensal - Porto Alegre - %
+|           13101 - Utilização da capacidade instalada - Rio Grande do Sul - %
+|           13261 - Emprego industrial - Rio Grande do Sul - Índice
+|           13726 - Remuneração real na indústria - Rio Grande do Sul (jan/2006=100) - Índice
+|           20100 - Índice de volume de vendas no comércio varejista ampliado - Total - Rio Grande do Sul - Índice
+|           20103 - Índice de volume de vendas no varejo - Materiais de construção - Rio Grande do Sul - Índice
+|           20322 - Índice de volume de vendas no varejo - artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - RS - Índice
+|           20323 - Índice de volume de vendas no varejo - livros, jornais, revistas e papelaria - RS - Índice
+|           20324 - Índice de volume de vendas no varejo - equipamentos e materiais para escritório, informática e comunicação - RS - Índice
+|           20325 - Índice de volume de vendas no varejo - outros artigos de uso pessoal e doméstico - RS - Índice
+|           21419 - Índice do volume de vendas no varejo com ajuste sazonal - RS - Índice
+|           21420 - Índice de volume de vendas no varejo ampliado com ajuste sazonal - Rio Grande do Sul - Índice
+|           21422 - Índice de Desempenho Industrial - Rio Grande do Sul - Índice
+|           21423 - Compras industriais reais - Rio Grande do Sul - Índice
+|           21933 - Produção Industrial (2012=100)  Geral  Rio Grande do Sul  com ajuste sazonal - Índice
+|           25404 - Índice de Atividade Econômica Regional - Rio Grande do Sul - com ajuste sazonal - Índice
+|           28038 - PMS - Índice de volume de serviços - Total - Rio Grande do Sul - com ajuste sazonal - Índice
+|           14022 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Sul - Pessoas f�sicas - R$ (milh�es)
+|           14049 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Sul - Pessoas jur�dicas - R$ (milh�es)
+|           14076 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Sul - Total - R$ (milh�es)
+|           15881 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Sul - Pessoas f�sicas - %
+|           15913 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Sul - Pessoas jur�dicas - %
+|           15945 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio Grande do Sul - Total - %
+|   |---Santa Catarina
+|       |---1477 - Índice de volume de vendas no varejo - Total - Santa Catarina - Índice
+|           1492 - Índice de volume de vendas no varejo - Combustíveis e lubrificantes - Santa Catarina - Índice
+|           1505 - Índice de volume de vendas no varejo - Hiper/supermercados, Prod. alimentícios, bebidas, fumo - Santa Catarina - Índice
+|           1518 - Índice de volume de vendas no varejo - Tecidos, vestuário e calçados - Santa Catarina - Índice
+|           1531 - Índice de volume de vendas no varejo - Móveis e eletrodomésticos - Santa Catarina - Índice
+|           1557 - Índice de volume de vendas no varejo - Automóveis, motocicletas, partes e peças - Santa Catarina - Índice
+|           1570 - Índice de volume de vendas no varejo - Hipermercados e supermercados - Santa Catarina - Índice
+|           7484 - Cesta básica - Florianópolis - u.m.c.
+|           20199 - Índice de volume de vendas no varejo - Ampliado - Santa Catarina - Índice
+|           20200 - Índice de volume de vendas no varejo - Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - Santa Catarina - Índice
+|           20201 - Índice de volume de vendas no varejo - Livros, jornais, revistas e papelaria - Santa Catarina - Índice
+|           20202 - Índice de volume de vendas no varejo - Equipamentos e materiais para escritório, informática e comunicação - Santa Catarina - Índice
+|           20203 - Índice de volume de vendas no varejo - Outros artigos de uso pessoal e doméstico - Santa Catarina - Índice
+|           20204 - Índice de volume de vendas no varejo - Material de construção - Santa Catarina - Índice
+|           21982 - Produção Industrial (2012=100) - Geral - Com ajuste sazonal - Santa Catarina - Índice
+|           25405 - Índice de Atividade Econômica Regional - Santa Catarina - com ajuste sazonal - Índice
+|           28037 - PMS - Índice de volume de serviços - Total - Santa Catarina - com ajuste sazonal - Índice
+|           14025 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Santa Catarina - Pessoas f�sicas - R$ (milh�es)
+|           14052 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Santa Catarina - Pessoas jur�dicas - R$ (milh�es)
+|           14079 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Santa Catarina - Total - R$ (milh�es)
+|           15884 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Santa Catarina - Pessoas f�sicas - %
+|           15916 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Santa Catarina - Pessoas jur�dicas - %
+|           15948 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Santa Catarina - Total - %
