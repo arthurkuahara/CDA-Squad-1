@@ -122,16 +122,54 @@
 |           7461 - �ndice Nacional de Custo da Constru��o (INCC-DI) - M�o-de-obra - Var. % mensal
 |           7462 - �ndice Nacional de Custo da Constru��o (INCC-DI) - Materiais e servi�os - Var. % mensal
 |   |---Tarefa 18
-|       |---7471 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Despesas pessoais - Var. % mensal
-|           7472 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Vestu�rio - Var. % mensal
-|           7473 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Sa�de - Var. % mensal
-|           7474 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Educa��o - Var. % mensal
-|           7475 - �ndice de Pre�os ao Consumidor (IPC-Fipe) - Comercializ�veis - Var. % mensal
-|           10841 - �ndice de Pre�os ao Consumidor-Amplo (IPCA) - Bens n�o-dur�veis - Var. % mensal
-|           10842 - �ndice de Pre�os ao Consumidor-Amplo (IPCA) - Bens semi-dur�veis - Var. % mensal
-|           10843 - �ndice de Pre�os ao Consumidor-Amplo (IPCA) - Dur�veis - Var. % mensal
-|           27863 - �ndice Nacional de Pre�os ao Consumidor - Amplo (IPCA) - Industriais - Var. % mensal
-|           27864 - Indice Nacional de Pre�os ao Consumidor - Amplo (IPCA) - Alimenta��o no domic�lio - Var. % mensal
+|       |---188 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - Var. % mensal
+|           193 - ÃÂndice de preÃÂ§os ao consumidor-SÃÂ£o Paulo (IPC-Fipe) - Var. % mensal
+|           194 - ÃÂndice de custo de vida (ICV) - Var. % mensal
+|           433 - ÃÂndice nacional de preÃÂ§os ao consumidor-amplo (IPCA) - Var. % mensal
+|           1635 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - AlimentaÃÂ§ÃÂ£o e bebidas - Var. % mensal
+|           1636 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - HabitaÃÂ§ÃÂ£o - Var. % mensal
+|           1637 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - Artigos de residÃÂªncia - Var. % mensal
+|           1638 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA)- VestuÃÂ¡rio - Var. % mensal
+|           1639 - ÃÂndice de nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - Transportes - Var. % mensal
+|           1640 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - ComunicaÃÂ§ÃÂ£o - Var. % mensal
+|           1641 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - SaÃÂºde e cuidados pessoais - Var. % mensal
+|           1642 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - Despesas pessoais - Var. % mensal
+|           1643 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - EducaÃÂ§ÃÂ£o - Var. % mensal
+|           1644 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - AlimentaÃÂ§ÃÂ£o e bebidas - Var. % mensal
+|           1645 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - HabitaÃÂ§ÃÂ£o - Var. % mensal
+|           1646 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - Artigos de residÃÂªncia - Var. % mensal
+|           1647 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - VestuÃÂ¡rio - Var. % mensal
+|           1648 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - Transporte - Var. % mensal
+|           1649 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - ComunicaÃÂ§ÃÂ£o - Var. % mensal
+|           1650 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - SaÃÂºde e cuidados pessoais - Var. % mensal
+|           1651 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - Despesas pessoais - Var. % mensal
+|           1652 - ÃÂndice nacional de preÃÂ§os ao consumidor (INPC) - EducaÃÂ§ÃÂ£o - Var. % mensal
+|           4447 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - ComercializÃÂ¡veis - Var. % mensal
+|           4448 - ÃÂndice de PreÃÂ§os ao Consumidor-Amplo (IPCA) - NÃÂ£o comercializÃÂ¡veis - Var. % mensal
+|           4449 - ÃÂndice Nacional de PreÃÂ§os ao Consumidor - Amplo (IPCA) - Monitorados - Var. % mensal
+|           4451 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - PreÃÂ§os monitorados - Taxa de ÃÂ¡gua e esgoto - Var. % mensal
+|           4452 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - PreÃÂ§os monitorados - GÃÂ¡s de bujÃÂ£o - Var. % mensal
+|           4453 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - PreÃÂ§os monitorados - Energia elÃÂ©trica - Var. % mensal
+|           4454 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - PreÃÂ§os monitorados - ÃÂnibus urbano - Var. % mensal
+|           4458 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - PreÃÂ§os monitorados - Gasolina - Var. % mensal
+|           4460 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - PreÃÂ§os monitorados - ÃÂleo diesel - Var. % mensal
+|           4461 - ÃÂndice nacional de preÃÂ§os ao consumidor-Amplo (IPCA) - PreÃÂ§os monitorados - Plano de saÃÂºde - Var. % mensal
+|           7465 - ÃÂndice de PreÃÂ§os ao Consumidor (IPC-Fipe) - AlimentaÃÂ§ÃÂ£o - Var. % mensal
+|           7466 - ÃÂndice de PreÃÂ§os ao Consumidor (IPC-Fipe) - Semielaborados - Var. % mensal
+|           7467 - ÃÂndice de PreÃÂ§os ao Consumidor (IPC-Fipe) - Industrializados - Var. % mensal
+|           7468 - ÃÂndice de PreÃÂ§os ao Consumidor (IPC-Fipe) - In natura - Var. % mensal
+|           7469 - ÃÂndice de PreÃÂ§os ao Consumidor (IPC-Fipe) - HabitaÃÂ§ÃÂ£o - Var. % mensal
+|           7470 - ÃÂndice de PreÃÂ§os ao Consumidor (IPC-Fipe) - Transportes - Var. % mensal
+|           7471 - ÃÂndice de PreÃÂ§os ao Consumidor (IPC-Fipe) - Despesas pessoais - Var. % mensal
+|           7472 - ÃÂndice de PreÃÂ§os ao Consumidor (IPC-Fipe) - VestuÃÂ¡rio - Var. % mensal
+|           7473 - Índice de Preços ao Consumidor (IPC-Fipe) - Saúde - Var. % mensal
+|           7474 - Índice de Preços ao Consumidor (IPC-Fipe) - Educação - Var. % mensal
+|           7475 - Índice de Preços ao Consumidor (IPC-Fipe) - Comercializáveis - Var. % mensal
+|           10841 - Índice de Preços ao Consumidor-Amplo (IPCA) - Bens não-duráveis - Var. % mensal
+|           10842 - Índice de Preços ao Consumidor-Amplo (IPCA) - Bens semi-duráveis - Var. % mensal
+|           10843 - Índice de Preços ao Consumidor-Amplo (IPCA) - Duráveis - Var. % mensal
+|           27863 - Índice Nacional de Preços ao Consumidor - Amplo (IPCA) - Industriais - Var. % mensal
+|           27864 - Indice Nacional de Preços ao Consumidor - Amplo (IPCA) - Alimentação no domicílio - Var. % mensal
 |   |---Tarefa 19
 |       |---7495 - SINAPI - Var. % mensal
 |   |---Tarefa 20
@@ -239,16 +277,27 @@
 |           15926 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Alagoas - Total - %
 |           28029 - PMS - �ndice de volume de servi�os - Total - Alagoas - com ajuste sazonal - �ndice
 |   |---Bahia
-|       |---1471 - �ndice de volume de vendas no varejo - Total - Bahia - �ndice
-|           1486 - �ndice de volume de vendas no varejo - Combust�veis e lubrificantes - Bahia - �ndice
-|           1499 - �ndice de volume de vendas no varejo - Hipermercados, supermercados, produtos aliment�cios, bebidas e fumo - Bahia - �ndice
-|           1525 - �ndice de volume de vendas no varejo - M�veis e eletrodom�sticos - Bahia - �ndice
-|           1551 - �ndice de volume de vendas no varejo - Autom�veis, motocicletas, partes e pe�as - Bahia - �ndice
-|           7492 - Cesta b�sica - Salvador - u.m.c.
-|           13003 - �ndice Nacional de Pre�os ao Consumidor Amplo - varia��o mensal - Salvador - %
-|           13004 - �ndice Nacional de Pre�os ao Consumidor - varia��o mensal - Salvador - %
-|           14006 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Bahia - Pessoas f�sicas - R$ (milh�es)
-|           14033 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - Bahia - Pessoas jur�dicas - R$ (milh�es)
+|       |---1471 - Ãndice de volume de vendas no varejo - Total - Bahia - Ãndice
+|           1486 - Ãndice de volume de vendas no varejo - CombustÃ­veis e lubrificantes - Bahia - Ãndice
+|           1499 - Ãndice de volume de vendas no varejo - Hipermercados, supermercados, produtos alimentÃ­cios, bebidas e fumo - Bahia - Ãndice
+|           1525 - Ãndice de volume de vendas no varejo - MÃ³veis e eletrodomÃ©sticos - Bahia - Ãndice
+|           1551 - Ãndice de volume de vendas no varejo - AutomÃ³veis, motocicletas, partes e peÃ§as - Bahia - Ãndice
+|           7492 - Cesta bÃ¡sica - Salvador - u.m.c.
+|           13003 - Ãndice Nacional de PreÃ§os ao Consumidor Amplo - variaÃ§Ã£o mensal - Salvador - %
+|           13004 - Ãndice Nacional de PreÃ§os ao Consumidor - variaÃ§Ã£o mensal - Salvador - %
+|           14006 - Saldo das operaÃ§Ãµes de crÃ©dito do Sistema Financeiro Nacional - Bahia - Pessoas fÃ­sicas - R$ (milhÃµes)
+|           14033 - Saldo das operaÃ§Ãµes de crÃ©dito do Sistema Financeiro Nacional - Bahia - Pessoas jurÃ­dicas - R$ (milhÃµes)
+|           14060 - Saldo das operaÃ§Ãµes de crÃ©dito do Sistema Financeiro Nacional - Bahia - Total - R$ (milhÃµes)
+|           15865 - Taxa de inadimplÃªncia das operaÃ§Ãµes de crÃ©dito do Sistema Financeiro Nacional - Bahia - Pessoas fÃ­sicas - %
+|           15897 - Taxa de inadimplÃªncia das operaÃ§Ãµes de crÃ©dito do Sistema Financeiro Nacional - Bahia - Pessoas jurÃ­dicas - %
+|           15929 - Taxa de inadimplÃªncia das operaÃ§Ãµes de crÃ©dito do Sistema Financeiro Nacional - Bahia - Total - %
+|           20163 - Índice de volume de vendas no varejo - Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - Bahia - Índice
+|           20165 - Índice de volume de vendas no varejo - Equipamentos e materiais para escritório, informática e comunicação - Bahia - Índice
+|           20168 - Índice de volume de vendas no varejo - Material de construção - Bahia - Índice
+|           21945 - Produção Industrial (2012=100)  Geral  Bahia  com ajuste sazonal - Índice
+|           24839 - PMS - Índice de volume de serviços - Total - Bahia - Índice
+|           25416 - Índice de Atividade Econômica Regional - Bahia - com ajuste sazonal - Índice
+|           28031 - PMS - Índice de volume de serviços - Total - Bahia - com ajuste sazonal - Índice
 |   |---Ceará
 |       |---1465 - Índice de volume de vendas no varejo - Total - Ceará - Índice
 |           1484 - Índice de volume de vendas no varejo - Combustíveis e lubrificantes - Ceará - Índice
@@ -523,22 +572,25 @@
 |           15911 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio de Janeiro - Pessoas jur�dicas - %
 |           15943 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - Rio de Janeiro - Total - %
 |   |---São Paulo
-|       |---13025 - �ndice Nacional de Pre�os ao Consumidor - varia��o mensal - S�o Paulo - %
-|           20128 - �ndice de volume de vendas no varejo - Artigos farmac�uticos, m�dicos, ortop�dicos, de perfumaria e cosm�ticos - S�o Paulo - �ndice
-|           20129 - �ndice de volume de vendas no varejo - Livros, jornais, revistas e papelaria - S�o Paulo - �ndice
-|           20130 - �ndice de volume de vendas no varejo - Equipamentos e materiais para escrit�rio, inform�tica e comunica��o - S�o Paulo - �ndice
-|           20131 - �ndice de volume de vendas no varejo - Outros artigos de uso pessoal e dom�stico - S�o Paulo - �ndice
-|           20132 - �ndice de volume de vendas no varejo - Material de constru��o - S�o Paulo - �ndice
-|           20133 - �ndice de volume de vendas no varejo - Total do com�rcio ampliado - S�o Paulo - �ndice
-|           21925 - Produ��o Industrial (2012=100) � Geral � S�o Paulo - �ndice
-|           25394 - �ndice de Atividade Econ�mica Regional - S�o Paulo - com ajuste sazonal - �ndice
-|           28035 - PMS - �ndice de volume de servi�os - Total - S�o Paulo - com ajuste sazonal - �ndice
-|            14026 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Pessoas f�sicas - R$ (milh�es)
-|           14053 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Pessoas jur�dicas - R$ (milh�es)
-|           14080 - Saldo das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Total - R$ (milh�es)
-|           15885 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Pessoas f�sicas - %
-|           15917 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Pessoas jur�dicas - %
-|           15949 - Taxa de inadimpl�ncia das opera��es de cr�dito do Sistema Financeiro Nacional - S�o Paulo - Total - %
+|       |---1475 - Índice de volume de vendas no varejo - Total - São Paulo - Índice
+|           1490 - Índice de volume de vendas no varejo - Combustíveis e lubrificantes - São Paulo - Índice
+|           1503 - Índice de volume de vendas no varejo - Hipermercados, supermercados, produtos alimentícios, bebidas e fumo - São Paulo - Índice
+|           1516 - Índice de volume de vendas no varejo - Tecidos, vestuário e calçados - São Paulo - Índice
+|           1529 - Índice de volume de vendas no varejo - Móveis e eletrodomésticos - São Paulo - Índice
+|           1555 - Índice de volume de vendas no varejo - Automóveis, motocicletas, partes e peças - São Paulo - Índice
+|           1568 - Índice de volume de vendas no varejo - Hipermercados e supermercados - São Paulo - Índice
+|           7493 - Cesta básica - São Paulo - u.m.c.
+|           13024 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - São Paulo - %
+|           13025 - Índice Nacional de Preços ao Consumidor - variação mensal - São Paulo - %
+|           20128 - Índice de volume de vendas no varejo - Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos - São Paulo - Índice
+|           20129 - Índice de volume de vendas no varejo - Livros, jornais, revistas e papelaria - São Paulo - Índice
+|           20130 - Índice de volume de vendas no varejo - Equipamentos e materiais para escritório, informática e comunicação - São Paulo - Índice
+|           20131 - Índice de volume de vendas no varejo - Outros artigos de uso pessoal e doméstico - São Paulo - Índice
+|           20132 - Índice de volume de vendas no varejo - Material de construção - São Paulo - Índice
+|           20133 - Índice de volume de vendas no varejo - Total do comércio ampliado - São Paulo - Índice
+|           21925 - Produção Industrial (2012=100)  Geral  São Paulo - Índice
+|           25394 - Índice de Atividade Econômica Regional - São Paulo - com ajuste sazonal - Índice
+|           28035 - PMS - Índice de volume de serviços - Total - São Paulo - com ajuste sazonal - Índice
 |Região Sul
 |   |---Consolidado Regional
 |       |---13565 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Sul - %
