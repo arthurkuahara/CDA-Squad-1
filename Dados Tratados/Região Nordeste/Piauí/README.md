@@ -1,0 +1,1 @@
+Economia Regional - Nordeste - Piauí - Setor real - Cod 28024; 27985; 1464; 14019; 14046; 14073 15878; 15910; 15942;

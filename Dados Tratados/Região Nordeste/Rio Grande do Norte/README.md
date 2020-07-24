@@ -1,0 +1,1 @@
+Economia Regional - Nordeste - Rio Grande do Norte - Setor real -Cod 28026; 7488; 1466; 14021; 14048; 14075; 15880; 15912; 15944
