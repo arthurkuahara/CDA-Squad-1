@@ -16,7 +16,8 @@ for file in files:
                     float(df[column][count0])    
             except:
                 pass
-            count0 += 1
+            finally:                
+                count0 += 1
 
     df.to_csv("{}".format(file), encoding='utf-8', sep=';', quotechar='"', decimal='.')
     print(file)
