@@ -10,5 +10,5 @@ for file in files:
         df[column] = df[column].rolling(12, center=True, min_periods=1).mean()
         df[column] = df[column].round(2)
 
-
+    #tem que mudar esse -movel
     df.to_csv("{}-movel".format(file), sep=';', quotechar='"', decimal='.', encoding='utf-8')
