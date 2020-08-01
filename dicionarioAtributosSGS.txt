@@ -520,7 +520,7 @@
 |           21928 - Produção Industrial (2012=100)  Geral  Espírito Santo - com ajuste sazonal - Índice
 |           25399 - Índice de Atividade Econômica Regional - Espírito Santo - com ajuste sazonal - Índice
 |           28033 - PMS - Índice de volume de serviços - Total - Espírito Santo - com ajuste sazonal - Índice
-|            14009 - Saldo das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Pessoas físicas - R$ (milhões)
+|           14009 - Saldo das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Pessoas físicas - R$ (milhões)
 |           14036 - Saldo das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Pessoas jurídicas - R$ (milhões)
 |           14063 - Saldo das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Total - R$ (milhões)
 |           15868 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Espírito Santo - Pessoas físicas - %
@@ -545,7 +545,7 @@
 |           21940 - Producao Industrial (2012=100) - Geral - Com ajuste sazonal - Minas Gerais - indice
 |           25380 - indice de Atividade Economica Regional - Minas Gerais - com ajuste sazonal - indice
 |           28032 - PMS - indice de volume de servicos - Total - Minas Gerais - com ajuste sazonal - indice
-|            14014 - Saldo das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Pessoas físicas - R$ (milhões)
+|           14014 - Saldo das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Pessoas físicas - R$ (milhões)
 |           14041 - Saldo das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Pessoas jurídicas - R$ (milhões)
 |           14068 - Saldo das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Total - R$ (milhões)
 |           15873 - Taxa de inadimplência das operações de crédito do Sistema Financeiro Nacional - Minas Gerais - Pessoas físicas - %
