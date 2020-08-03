@@ -418,6 +418,7 @@
 |           21186 - �ndice de volume de vendas no varejo - Norte - �ndice
 |           21199 - �ndice de volume de vendas no varejo - Norte - com ajuste sazonal - �ndice
 |           21931 - Produ��o industrial (2012=100) - Com ajuste sazonal - Regi�o Norte - �ndice
+|           25407 - �ndice de Atividade Econ�mica Regional - Regi�o Norte - com ajuste sazonal - �ndice
 |           27967 - �ndice Nacional de Pre�os ao Consumidor Amplo - varia��o mensal - regi�o Norte - %
 |   |---Pará
 |       |---1460 - Índice de volume de vendas no varejo - Total - Pará - Índice
