@@ -20,7 +20,7 @@ for file in files:
 
         df2 = df1[(df1.Data >= "2011-01-01")]
 
-        # teste para valores faltantes    
+        # columns_to_drop = []  
         consecutive_nulls = 0
         for column in df2.columns[1:]:
             consecutive_nulls = 0
@@ -29,6 +29,7 @@ for file in files:
                     if consecutive_nulls == 4:
                         valores_faltantes.append(file)
                         valores_faltantes.append(column)
+                        # columns_to_drop.append(column)
                         break
                     elif value == None:
                         consecutive_nulls += 1
@@ -36,35 +37,15 @@ for file in files:
                         consecutive_nulls = 0
                 except:
                     pass    
-
-        # columns_to_drop = []
-        # consecutive_nulls = 0
-        # for column in df2.columns[1:]:
-        #     consecutive_nulls = 0
-        #     for value in df2[column]:
-        #         try:
-        #             if consecutive_nulls == 4:
-        #                 columns_to_drop.append(column)
-        #                 break
-        #             elif value == None:
-        #                 consecutive_nulls += 1
-        #             else:
-        #                 consecutive_nulls = 0
-        #                 pass
-        #         except:
-        #             pass
-        #     print(column, consecutive_nulls)
+            # print(column, consecutive_nulls)
         # print(columns_to_drop)
-
+        
         # df3 = pd.DataFrame(df2, columns = ['Data'])
         # for column in columns_to_drop:
         #     df3 = df3.join(df2[column])
 
         # df2 = df2.drop(columns=columns_to_drop)
         # df3 = df3[(df3.Data >= "2011-01-01")]
-
-        # print(df2)
-        # print(df3)
 
         # columns_to_drop_2 = []
         # consecutive_nulls = 0
@@ -85,7 +66,7 @@ for file in files:
         #     print(column, consecutive_nulls)
         # print(columns_to_drop_2)
 
-            # df2['Data'] = df2['Data'].apply(lambda x: x.strftime('%m/%Y'))
+        # df2['Data'] = df2['Data'].apply(lambda x: x.strftime('%m/%Y'))
         # df3['Data'] = df3['Data'].apply(lambda x: x.strftime('%m/%Y'))
         df2.set_index('Data', inplace = True)
         # df3.set_index('Data', inplace = True)
@@ -95,4 +76,4 @@ for file in files:
     except Exception as e:
         print(file, e)
 
-print("_____________________________", valores_faltantes)
+print(valores_faltantes)
