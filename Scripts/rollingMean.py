@@ -1,7 +1,7 @@
 import pandas as pd
 import glob
 
-files = glob.glob('/filepath/*.csv')
+files = glob.glob('/file_path/*.csv')
 
 for file in files:
     df = pd.read_csv(file, sep=';', index_col=0)
@@ -10,5 +10,6 @@ for file in files:
         df[column] = df[column].rolling(12, center=True, min_periods=1).mean()
         df[column] = df[column].round(2)
 
-    #tem que mudar esse -movel
-    df.to_csv("{}-movel".format(file), sep=';', quotechar='"', decimal='.', encoding='utf-8')
+    filename = file[:-4] + "-media.csv"
+
+    df.to_csv(filename, sep=';', quotechar='"', decimal='.', encoding='utf-8')
