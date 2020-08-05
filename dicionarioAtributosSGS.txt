@@ -25,13 +25,10 @@
 |       |---28561 - Utilizacao da capacidade instalada - industria de transformacao (FGV) - Dados dessazonalizados - %
 |   |---Tarefa 5
 |       |---28555 - Vendas industriais reais (2016=100) - CNI - Dados dessazonalizados – indice
-|           
 |   |---Tarefa 6
 |       |---28556 - Numero de horas trabalhadas  industria de transformacao (2016=100) - Dados dessazonalizados - Indice
-|           
 |   |---Tarefa 7
 |       |---28559 - Salario real na industria de transformacao (2016=100) - Dados dessazonalizados – Indice
-|           
 |   |---Tarefa 8
 |       |---28560 - Massa salarial real  industria de transformacao (2016=100) - Dados dessazonalizados - Indice
 |   |---Tarefa 9
@@ -178,6 +175,16 @@
 |           27575 - �ndice de Commodities - Brasil - Agropecu�ria - �ndice
 |           27576 - �ndice de Commodities - Brasil - Metal - �ndice
 |           27577 - �ndice de Commodities - Brasil - Energia - �ndice
+|   |---Tarefa 21
+|       |---24364 - �ndice de Atividade Econ�mica do Banco Central (IBC-Br) - com ajuste sazonal - �ndice
+|           21859 - Indicadores da produ��o (2012=100) - Geral - �ndice
+|           21862 - Indicadores da produ��o (2012=100) - Ind�stria de transforma��o - �ndice
+|           21863 - Indicadores da produ��o (2012=100) - Bens de capital - �ndice
+|           21866 - Indicadores da produ��o (2012=100) - Bens de consumo dur�veis - �ndice
+|           21867 - Indicadores da produ��o (2012=100) - Semidur�veis e n�o dur�veis - �ndice
+|   |---Tarefa 23
+|       |---191 - �ndice de pre�os ao consumidor-Brasil (IPC-Br) - Var. % mensal
+|           225 - �ndice de pre�os ao produtor amplo - Var. % mensal
 |Região Centro-Oeste
 |   |---Consolidado Regional
 |       |---13951 - Índice Nacional de Preços ao Consumidor Amplo - variação mensal - Centro-Oeste - %
